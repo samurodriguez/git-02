@@ -2,3 +2,4 @@
 
 Se añadieron ficheros y list
 Se añadieron imágenes
+Se añadió funcionalidad 1
